@@ -1,0 +1,17 @@
+{
+    "name": "appchat/myapp",
+    "autoload": {
+        "psr-4": {
+            "Chat\\": "src/Controllers",
+            "Provider\\":"src/Providers",
+            "Models\\":"models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oussama Achemlal",
+            "email": "91486759+ousamaachemlal7@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
